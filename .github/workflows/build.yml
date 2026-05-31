@@ -27,3 +27,4 @@ jobs:
         with:
           name: flow-vpn-apk
           path: build/app/outputs/flutter-apk/app-release.apk
+
